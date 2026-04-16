@@ -1,6 +1,6 @@
 # lad_stock
-projet de fin de module java by BROU Akanda assi aristide
-#  StockManager CI — Application de Gestion des Stocks
+projet de fin de module java by BROU Akanda assi aristide / **
+#  LAD Stock CI — Application de Gestion des Stocks
 
 **INP-HB — Département Informatique IC-GL | Année 2025-2026**
 
