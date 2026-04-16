@@ -1,5 +1,5 @@
 # lad_stock
-projet de fin de module java by BROU Akanda assi aristide / **
+projet de fin de module java by BROU Akanda assi aristide / LENAUD Nadia / DOUMBIA Karidjatou*
 #  LAD Stock CI — Application de Gestion des Stocks
 
 **INP-HB — Département Informatique IC-GL | Année 2025-2026**
