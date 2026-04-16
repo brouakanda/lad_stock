@@ -86,11 +86,7 @@ stockmanager-ci/
     │       │   └── Utilisateur.fxml
     │       └── css/
     │           └── styles.css            ← Design vert forêt + or ivoirien
-    └── test/
-        └── java/com/inphb/icgl/stocks/dao/
-            ├── CategorieDAOTest.java     ← 10 tests JUnit 5
-            ├── ProduitDAOTest.java       ← 10 tests JUnit 5
-            └── UtilisateurDAOTest.java   ← 10 tests JUnit 5
+   
 ```
 
 ---
